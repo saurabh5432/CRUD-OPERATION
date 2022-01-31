@@ -10,5 +10,7 @@ http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=saurabh&table=jobre
 
 http://localhost/saurabh/updates.php?id=1
 
+Note- Path -   C drive/XAMPP/htdocs/saurabh
+
 
 
